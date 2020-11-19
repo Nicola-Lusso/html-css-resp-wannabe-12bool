@@ -12,6 +12,7 @@
 
 .row [class*="col-"] {
   float: left;
+  padding: 20px;
 }
 
 .col-lg-1 {
